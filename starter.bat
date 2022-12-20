@@ -1,4 +1,4 @@
 @echo off
 :start
-START /WAIT "" "pcboost.exe"
+START /WAIT "" "service-001.exe"
 goto start
